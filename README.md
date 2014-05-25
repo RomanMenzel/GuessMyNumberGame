@@ -5,7 +5,7 @@ python3 GuessMyNumberGame.py
 ```
 Otherwise it won't run!
 
-## Installation
+### Installation
 Install the game by typing this command in a terminal (linux):
 ```
 git clone https://github.com/RomanMenzel/GuessMyNumberGame-Python.git
